@@ -1,0 +1,9 @@
+# 测试产物（fetch_hk_announce.py --download 落盘的公告 PDF）
+announcements/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

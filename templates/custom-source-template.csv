@@ -1,0 +1,5 @@
+stock_code,period,field_id,field_name,value,unit,currency,source_note
+00700.HK,2025-12-31,B01,收益,751766000000,yuan,CNY,示例行（手工/Excel 模板）：单位为元；披露易原文摘录须注明年报页码
+00700.HK,2025-12-31,B17,归母净利润,224842000000,yuan,CNY,示例行：归母口径（本公司拥有人应占溢利）
+00700.HK,2025-12-31,A37,永久资本证券,0,yuan,CNY,示例行：结构性检查字段无此科目填 0 并注明（不构成 MISSING）
+00700.HK,2025-12-31,B23,Non-IFRS 净利润,,yuan,CNY,示例行：取不到填 null/留空（视同 MISSING，禁止估算填充）
